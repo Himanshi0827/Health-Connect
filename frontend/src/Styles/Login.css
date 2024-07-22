@@ -1,0 +1,84 @@
+/* General styling for the login section */
+.login-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f4f8;
+  }
+  
+  .login-card {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 400px;
+  }
+  
+  .login-card h6 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #2d3748;
+  }
+  
+  .login-card input[type="email"],
+  .login-card input[type="password"] {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 1px solid #cbd5e0;
+    border-radius: 4px;
+    font-size: 0.875rem;
+  }
+  
+  .checkbox-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  .form-checkbox {
+    margin-right: 0.5rem;
+    width: 20px;
+    height: 20px;
+  }
+  
+  .checkbox-label {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: #4a5568;
+  }
+  
+  .signin-button {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #3182ce;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 0.875rem;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  
+  .signin-button:hover {
+    background-color: #2c5282;
+  }
+  
+  .links-container {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.875rem;
+  }
+  
+  .links-container a,
+  .links-container Link {
+    color: #3182ce;
+    text-decoration: none;
+  }
+  
+  .links-container a:hover,
+  .links-container Link:hover {
+    text-decoration: underline;
+  }
+  
