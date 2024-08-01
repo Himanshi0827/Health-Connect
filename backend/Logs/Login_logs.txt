@@ -22,3 +22,5 @@
 [2024-07-14 14:37:26] : Login attempt successful: lab@gmail.com (HIMANSHI SINGH) (Librarian)
 [2024-07-21 20:25:52] : Login attempt successful: doc@gmail.com (himanshi singh) (Doctor)
 [2024-07-21 23:2:28] : Login attempt successful: admin@gmail.com (HIMANSHI SINGH) (Admin)
+[2024-07-31 17:4:7] : Login attempt successful: patient@gmail.com (HIMANSHI SINGH) (Patient)
+[2024-07-31 19:31:20] : Login attempt successful: patient@gmail.com (HIMANSHI SINGH) (Patient)
