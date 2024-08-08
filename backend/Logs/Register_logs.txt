@@ -4,3 +4,5 @@
 [2024-07-14 10:53:55] : Registration Successful: New User added - user@gmail.com (HIMANSHI SINGH) (User)
 [2024-07-14 11:51:34] : Registration Successful: New User added - lab@gmail.com (HIMANSHI SINGH) (Librarian)
 [2024-07-21 20:25:9] : Registration Successful: New User added - doc@gmail.com (himanshi singh) (Doctor)
+[2024-08-08 15:58:24] : Registration failed: User Already exists - doc@gmail.com (himanshi singh) (Doctor)
+[2024-08-08 15:58:50] : Registration Successful: New User added - doctor@gmail.com (himanshi singh) (Doctor)

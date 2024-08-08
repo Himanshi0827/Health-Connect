@@ -1,0 +1,123 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .dashboard-container {
+    display: flex;
+  }
+  
+  .sidebar {
+    background-color: #4a90e2;
+    color: white;
+    padding: 20px;
+    width: 250px;
+    height: 100vh;
+  }
+  
+  .sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar-item {
+    padding: 15px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  
+  .sidebar-item .icon {
+    margin-right: 10px;
+  }
+  
+  .sidebar-item:hover,
+  .sidebar-item.active {
+    background-color: #357ab7;
+    border-radius: 5px;
+  }
+  
+  .main-content {
+    padding: 20px;
+    width: 100%;
+    background-color: #f0f4f8;
+    overflow-y: auto;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .search-bar {
+    width: 250px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .user-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .user-icon {
+    font-size: 24px;
+  }
+  
+  .username {
+    margin-left: 10px;
+    font-weight: bold;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #4a90e2;
+    color: white;
+  }
+  
+  .table td {
+    background-color: #fff;
+  }
+  
+  .table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.9;
+  }
+  
