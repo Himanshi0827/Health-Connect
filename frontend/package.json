@@ -4,10 +4,16 @@
   "private": true,
   "homepage": "https://alkaison.github.io/Health-Plus/",
   "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@headlessui/react": "^2.1.2",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "@mui/icons-material": "^5.0.0",
+    "@mui/material": "^5.16.7",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -49,6 +55,6 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0",
-    "react-router-dom": "^6.25.1"
+    "react-router-dom": "^6.26.0"
   }
 }

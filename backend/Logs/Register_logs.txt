@@ -6,3 +6,4 @@
 [2024-07-21 20:25:9] : Registration Successful: New User added - doc@gmail.com (himanshi singh) (Doctor)
 [2024-08-08 15:58:24] : Registration failed: User Already exists - doc@gmail.com (himanshi singh) (Doctor)
 [2024-08-08 15:58:50] : Registration Successful: New User added - doctor@gmail.com (himanshi singh) (Doctor)
+[2024-08-13 0:32:13] : Registration Successful: New User added - rashmi@gmail.com (himu himu) (Patient)
